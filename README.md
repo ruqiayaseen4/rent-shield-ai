@@ -80,6 +80,15 @@ Programming Language: TypeScript
 AI Models & API Integration: Google Gemini 2.0 Flash REST API / OpenAI GPT-4o-mini
 Hosting & Continuous Deployment: Vercel
 Version Control: Git & GitHub
+ Screenshots
+1. Lease Audit Input & Jurisdiction Selection
+<img width="958" height="443" alt="SS 1" src="https://github.com/user-attachments/assets/7e2ba7d9-9fdd-4529-b3b0-2671af88c140" />
+2. Automated Landlord Negotiation Draft
+<img width="552" height="263" alt="SS#" src="https://github.com/user-attachments/assets/bb303bb3-8cae-47b4-8e7d-59e0a13ebd24" />
+3. Audit Breakdown & Risk Score
+![Uploading SS#.png…]()
+
+
 
 💻 How to Run the Project Locally
 1. Prerequisites
