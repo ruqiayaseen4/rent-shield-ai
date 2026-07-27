@@ -85,8 +85,12 @@ Version Control: Git & GitHub
 1. Lease Audit Input & Jurisdiction Selection
 <img width="958" height="443" alt="SS 1" src="https://github.com/user-attachments/assets/7e2ba7d9-9fdd-4529-b3b0-2671af88c140" />
 2. Automated Landlord Negotiation Draft
+
+   
 <img width="552" height="263" alt="SS#" src="https://github.com/user-attachments/assets/bb303bb3-8cae-47b4-8e7d-59e0a13ebd24" />
-3. Audit Breakdown & Risk Score
+4. Audit Breakdown & Risk Score
+
+   
 <img width="940" height="434" alt="SS@" src="https://github.com/user-attachments/assets/e8ed5b6b-a144-47a8-8536-849b791ebc3a" />
 
 
